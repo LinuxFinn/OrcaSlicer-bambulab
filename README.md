@@ -41,4 +41,4 @@ You can find BMCU firmware in my repositories.
 
 </div>
 
-This is just a fork of the code to keep it available.
+This is just a fork of the code to keep it available. I do not maintain anything. 
