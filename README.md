@@ -40,3 +40,5 @@ I also encourage you to use BMCU.
 You can find BMCU firmware in my repositories.
 
 </div>
+
+This is just a fork of the code to keep it available.
